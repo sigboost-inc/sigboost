@@ -101,7 +101,7 @@ midiglueを始めとするsigboostの製品はユニークな技術に支えら�
  
 ## リンク
 
-- [midiglue](sigboost.audio/midiglue)
-- [sigboost](sigboost.audio)
-- [会社HP](sigboost-inc.com)
+- [midiglue](https://sigboost.audio/midiglue)
+- [sigboost](https://sigboost.audio)
+- [会社HP](https://sigboost-inc.com)
 - [DTMステーション記事](https://www.dtmstation.com/tag/sigboost)
