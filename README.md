@@ -90,7 +90,7 @@ midiglueを始めとするsigboostの製品はユニークな技術に支えら�
 
 スキルアップ・キャリアアップにご利用頂けましたら幸いです。
 
-[詳細はこちら](internship-2022-winter.md)
+[詳細はこちら](https://github.com/sigboost-inc/sigboost/blob/main/Internship-2022-winter.md)
 
 
 
